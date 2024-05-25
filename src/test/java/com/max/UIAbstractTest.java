@@ -1,4 +1,4 @@
-package com;
+package com.max;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.jupiter.api.BeforeAll;

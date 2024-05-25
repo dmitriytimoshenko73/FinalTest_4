@@ -1,4 +1,4 @@
-package com;
+package com.max;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
@@ -44,5 +44,5 @@ public class UITest extends UIAbstractTest {
     public void teardown(){
         driver.quit();
     }
-}{
 }
+
